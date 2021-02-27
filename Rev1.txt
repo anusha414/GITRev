@@ -3,3 +3,5 @@ This is rev1 document
 Rev1 differences
 
 learning about merge rev1
+
+learning about merge conflicts
