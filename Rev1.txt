@@ -5,3 +5,4 @@ Rev1 differences
 learning about merge rev1
 
 learning about merge conflicts
+learning about merge conflicts from rev2
