@@ -10,4 +10,4 @@ learning about merge conflicts from rev2
 
 
 merge conflicts in detail in rev1
-
+learning about fetch command
